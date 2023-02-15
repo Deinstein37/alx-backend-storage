@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-create a web cach
+create a web cache and tracker
 """
 import redis
 import requests
